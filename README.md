@@ -1,6 +1,6 @@
 # 🎛️ AI Music Mastering Tool
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-blue?style=for-the-badge)](https://your-username.github.io/repo-name/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-blue?style=for-the-badge)](https://innovator2025.github.io/repo-name/)
 
 [![GitHub Pages](https://img.shields.io/badge/Live_Demo-GitHub_Pages-blue?style=flat-square)](https://innovator2025.github.io/ai-music-mastering/)
 [![Python](https://img.shields.io/badge/Backend-PythonAnywhere-green?style=flat-square)](https://www.pythonanywhere.com)
